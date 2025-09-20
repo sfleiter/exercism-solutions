@@ -1,0 +1,6 @@
+.exercism/
+.idea/
+.lapce/
+target/
+HELP.md
+HINTS.md
